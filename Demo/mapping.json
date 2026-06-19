@@ -1,0 +1,90 @@
+{
+  "000200": {
+    "denomination": "200",
+    "type": "Tiền giấy (Cotton)",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh trên nền hoa văn tinh xảo.",
+    "back_side": "Cánh đồng sản xuất nông nghiệp (Vườn cây cao su Tây Nguyên).",
+    "description": "Hình ảnh vườn cao su xanh mướt trên vùng đất đỏ bazan biểu tượng cho nền nông nghiệp công nghiệp hóa. Tờ tiền tôn vinh sản phẩm xuất khẩu chủ lực và sự chuyển mình của nền kinh tế nông nghiệp Việt Nam thời kỳ đầu đổi mới.",
+    "place": "Vườn cây cao su Tây Nguyên"
+  },
+  "000500": {
+    "denomination": "500",
+    "type": "Tiền giấy (Cotton)",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh cùng dòng chữ 'Ngân hàng Nhà nước Việt Nam'.",
+    "back_side": "Cảng Hải Phòng.",
+    "description": "Cửa ngõ giao thương đường biển lớn nhất miền Bắc với những con tàu container nhộn nhịp. Hình ảnh này khắc họa sức sống công nghiệp mạnh mẽ, sự thông thương quốc tế và vai trò huyết mạch của Thành phố Hoa phượng đỏ trong kinh tế biển.",
+    "place": "Cảng Hải Phòng"
+  },
+  "001000": {
+    "denomination": "1000",
+    "type": "Tiền giấy (Cotton)",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh, mệnh giá 1000 đồng.",
+    "back_side": "Cảnh khai thác gỗ tại Tây Nguyên.",
+    "description": "Hình ảnh thợ lâm nghiệp và chú voi đang kéo gỗ giữa đại ngàn. Đây là biểu tượng cho sự trù phú của tài nguyên rừng và tinh thần lao động hăng say của đồng bào các dân tộc Tây Nguyên trong việc xây dựng kinh tế đất nước.",
+    "place": "Khai thác gỗ Tây Nguyên"
+  },
+  "002000": {
+    "denomination": "2000",
+    "type": "Tiền giấy (Cotton)",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh, hoa văn trang trí dân tộc.",
+    "back_side": "Xưởng dệt tại Nhà máy Dệt Nam Định.",
+    "description": "Hình ảnh các nữ công nhân đang làm việc tại nhà máy dệt lớn nhất Đông Dương một thời. Tờ tiền tôn vinh ngành công nghiệp nhẹ, đặc biệt là vai trò quan trọng của người phụ nữ Việt Nam trong lao động sản xuất và phát triển kinh tế.",
+    "place": "Nhà máy dệt Nam Định"
+  },
+  "005000": {
+    "denomination": "5000",
+    "type": "Tiền giấy (Cotton)",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh trên nền xanh lơ đặc trưng.",
+    "back_side": "Nhà máy Thủy điện Trị An.",
+    "description": "Công trình thủy điện tầm cỡ trên sông Đồng Nai, biểu tượng của sự hợp tác hữu nghị Việt - Xô. Hình ảnh thể hiện khát vọng chinh phục thiên nhiên, mang nguồn sáng điện năng phục vụ công cuộc công nghiệp hóa, hiện đại hóa miền Nam.",
+    "place": "Nhà máy Thủy điện Trị An"
+  },
+  "010000": {
+    "denomination": "10000",
+    "type": "Tiền polymer",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh, hình ảnh hoa sen cách điệu.",
+    "back_side": "Mỏ dầu Bạch Hổ (Thềm lục địa phía Nam).",
+    "description": "Hình ảnh giàn khoan dầu khí ngoài khơi Vũng Tàu, đại diện cho ngành công nghiệp mũi nhọn của Việt Nam. Nó khẳng định chủ quyền biển đảo và sự giàu có về tài nguyên năng lượng của Tổ quốc.",
+    "place": "Mỏ dầu Bạch Hổ (Vũng Tàu)"
+  },
+  "020000": {
+    "denomination": "20000",
+    "type": "Tiền polymer",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh trên nền xanh lam.",
+    "back_side": "Chùa Cầu (Hội An, Quảng Nam).",
+    "description": "Biểu tượng của phố cổ Hội An với kiến trúc 'thượng gia hạ kiều' độc đáo. Hình ảnh minh chứng cho sự giao thoa văn hóa lâu đời giữa Việt Nam và Nhật Bản, đồng thời tôn vinh giá trị di sản văn hóa thế giới được UNESCO công nhận.",
+    "place": "Chùa Cầu (Hội An)"
+  },
+  "050000": {
+    "denomination": "50000",
+    "type": "Tiền polymer",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh, nền màu tím hồng.",
+    "back_side": "Nghinh Lương Đình và Phu Văn Lâu (Huế).",
+    "description": "Cụm di tích soi bóng bên dòng sông Hương, nơi nghỉ chân và niêm yết cáo thị của triều đình nhà Nguyễn. Hình ảnh mang vẻ đẹp cổ kính, thâm trầm, tôn vinh lịch sử hào hùng và tinh hoa văn hóa của Cố đô Huế.",
+    "place": "Nghinh Lương Đình và Phu Văn Lâu (Huế)"
+  },
+  "100000": {
+    "denomination": "100000",
+    "type": "Tiền polymer",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh trên nền xanh lá cây.",
+    "back_side": "Khuê Văn Các (Văn Miếu - Quốc Tử Giám).",
+    "description": "Biểu tượng của thủ đô Hà Nội và truyền thống hiếu học của dân tộc. Khuê Văn Các là nơi tôn vinh các bậc hiền tài, khẳng định giáo dục là quốc sách hàng đầu và tinh thần nghìn năm văn hiến của Việt Nam.",
+    "place": "Khuê Văn Các (Văn Miếu - Quốc Tử Giám)"
+  },
+  "200000": {
+    "denomination": "200000",
+    "type": "Tiền polymer",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh trên nền màu đỏ nâu.",
+    "back_side": "Hòn Đỉnh Hương (Vịnh Hạ Long).",
+    "description": "Một phiến đá lớn có hình dáng như chiếc lư hương khổng lồ giữa biển khơi Vịnh Hạ Long. Hình ảnh tượng trưng cho tinh thần tâm linh và lòng thành kính hướng về cội nguồn, đồng thời quảng bá kỳ quan thiên nhiên thế giới của Việt Nam.",
+    "place": "Hòn Đỉnh Hương (Vịnh Hạ Long)"
+  },
+  "500000": {
+    "denomination": "500000",
+    "type": "Tiền polymer",
+    "front_side": "Quốc huy và chân dung Chủ tịch Hồ Chí Minh, mệnh giá cao nhất trên nền xanh lơ đậm.",
+    "back_side": "Ngôi nhà tranh tại Làng Sen (Quê nội Bác Hồ).",
+    "description": "Ngôi nhà gỗ 5 gian đơn sơ tại Nam Đàn, Nghệ An, nơi gắn liền với tuổi thơ của vị lãnh tụ vĩ đại. Hình ảnh tôn vinh đức tính giản dị, khiêm nhường và tình yêu quê hương đất nước thiết tha của Chủ tịch Hồ Chí Minh.",
+    "place": "Làng Sen (Nam Đàn, Nghệ An)"
+  }
+}
