@@ -1,6 +1,6 @@
 # 🇻🇳 Nhận Diện Tiền Tệ Việt Nam
 
-## � Thành Viên Thực Hiện
+## Thành Viên Thực Hiện
 
 | MSSV | Họ và Tên |
 |------|-----------|
@@ -8,7 +8,7 @@
 | 24520980 | Huỳnh Nguyễn Hoài Lộc |
 | 24521871 | Trần Thanh Trúc |
 
-## �📋 Mô Tả Dự Án
+## 📋 Mô Tả Dự Án
 
 Dự án này phát triển hệ thống **nhận diện tiền giấy Việt Nam** bằng cách sử dụng kỹ thuật học sâu. Hệ thống có khả năng:
 - Xác định **mệnh giá tiền** (200đ, 500đ, 1,000đ, ..., 500,000đ)
@@ -90,7 +90,7 @@ Dataset bao gồm **12 mệnh giá tiền**:
 
 Mỗi mệnh giá có **2 mặt**: Mặt trước (truoc) và Mặt sau (sau)
 
-##  Ghi Chú
+## 📝 Ghi Chú
 
 - Mô hình đã huấn luyện được lưu tại `Demo/best_model.pth`
 - Thông tin chi tiết về các mệnh giá tiền được lưu trong `Demo/mapping.json`
