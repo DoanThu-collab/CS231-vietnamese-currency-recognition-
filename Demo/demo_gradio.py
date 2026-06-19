@@ -287,10 +287,15 @@ def predict(image):
 
 🏛️ Hình ảnh trên {side_vn.lower()}:
 {side_description}
+"""
 
+    if best_side != "truoc":
+        result += f"""
 📍 Địa danh / Công trình:
 {place_name}
+"""
 
+    result += f"""
 📝 Ý nghĩa:
 {description}
 """
